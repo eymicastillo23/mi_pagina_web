@@ -9,6 +9,7 @@ Haber culminado con éxito el curso de Introducción al Desarrollo Web de Desaf�
 Ahora cuento con una base técnica sólida, que me posiciona como un profesional con conocimientos fundamentales y directamente aplicables en el desarrollo web. Ya no solo entiendo cómo funciona una página web, sino que tengo la capacidad de construirla desde cero, darle estilo, organizarla y ponerla en línea.
 ___________________________________________________________________________________________
 📚 Unidades de Aprendizaje Cubiertas:
+
 ⚪ Dominio de los Pilares Web (HTML y CSS): Ahora puedo estructurar contenido y darle vida visual a cualquier idea en la web. Tengo la habilidad de maquetar y diseñar interfaces de usuario funcionales y atractivas.
 
 ⚪ Diseño Responsivo con Flexbox y Bootstrap: Al manejar Flexbox, demuestro un control preciso sobre la organización de elementos. Con Bootstrap, adquirí la capacidad de desarrollar interfaces adaptables a cualquier dispositivo de manera eficiente.
